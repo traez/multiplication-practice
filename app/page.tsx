@@ -16,7 +16,7 @@ export default function Home() {
   const { isModalOneOpen, isModalTwoOpen } = useContext(StateContext)!;
 
   return (
-    <main className="w-full min-h-[750px] grid grid-rows-[3fr,3fr,minmax(400px,auto),4fr,1fr] grid-cols-[auto]">
+    <main className="w-full h-full grid grid-rows-[3fr,3fr,minmax(400px,auto),4fr,1fr] grid-cols-[auto]">
       <Header />
       <Nav />
       <Section />

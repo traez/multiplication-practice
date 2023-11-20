@@ -17,7 +17,7 @@ export default function RootLayout({
   return (
     <StateProvider>
       <html lang="en" className="font-barlow text-[14px]">
-        <body className="w-full min-h-[750px] flex flex-col justify-center items-center">
+        <body className="w-full min-h-screen flex flex-col justify-center items-center">
           {children}
         </body>
       </html>
