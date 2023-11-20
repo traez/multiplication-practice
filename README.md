@@ -1,34 +1,75 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Prajwal Deshpande - Multiplication Flash Cards Game
 
-## Getting Started
+This is a MODIFIED clone to [Prajwal Deshpande's Multiplication Flash Cards Game](https://github.com/prajwalpd7/Flash-Cards-Game). Project help's elevate user's multiplication skills. Features an interactive flashcards game, with challenging answer choices, and tracking of wrong answers for focused learning. 
 
-First, run the development server:
+## Table of contents
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+  - [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+  - [Author](#author)
+  - [Acknowledgments](#acknowledgments)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Overview
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### The Challenge/User Stories
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Simple yet challenging game, designed to help users master multiplication tables. The game offers close-range answer choices to make it harder, and keeps track of wrong answers for review. Enter the range of multiplication tables you want to practice, then click "Start Game" to begin.
 
-## Learn More
+### Screenshot
 
-To learn more about Next.js, take a look at the following resources:
+![](/public/images/screenshot-desktop.png)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Links
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- Solution URL: [https://github.com/traez/multiplication-practice](https://github.com/traez/multiplication-practice)
+- Live Site URL: [https://multiplication-practice-traez.vercel.app](https://multiplication-practice-traez.vercel.app)
 
-## Deploy on Vercel
+## My process
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### Built with
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS Grid
+- Mobile-first workflow
+- [React](https://reactjs.org/) - JS library
+- [Next.js](https://nextjs.org/) - React framework
+- Tailwind CSS
+- Typescript
+
+### What I learned
+
+- Practiced full Width Responsive designing, and adapted to best practices that sets minimum breakpoint at 320px.
+- Creatively fullfilled @AritDeveloper's mini challenge [@AritDeveloper's mini challenge](https://twitter.com/AritDeveloper/status/1723356245690552677) using Modals.
+- Having known how to proceed Open Source contributions and Technical Writing wise. This was a little project warmup before delving into backend.
+
+### Continued development
+
+- Turn in first commercial Technical Writing article.  
+- Contribute to Open Source where possible.  
+- Do LeetCode challenges daily.  
+- Start learning Backend!  
+
+### Useful resources
+
+Stackoverflow  
+YouTube  
+Google  
+ChatGPT
+
+## Author
+
+- Website - [Trae Zeeofor](https://github.com/traez)
+- Twitter - [@trae_z](https://twitter.com/trae_z)
+
+## Acknowledgments
+
+To the memory of Kenneth Nwachukwu. Let's do good and cherish the time we have on Earth.

@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------------------Main Home
+------------------------------------------------------------------------Header 2 fr
+------------------------------------------------------------------------Menu 3fr
+------------------------------------------------------------------------Section 3fr
+------------------------------------------------------------------------Footer 1 fr
+----------------------------------------------
+-Things learnt:
+-Full Width Responsiveness, Minimum 320px breakpoint (Obinna)
+-Arit Modal Challenge, Tech Write, Open Source, BackEnd
+----------------------------------------------
+Source: https://github.com/prajwalpd7/Flash-Cards-Game
+Live: https://prajwalpd7.github.io/Flash-Cards-Game/
+----------------------------------------------
+https://twitter.com/AritDeveloper/status/1723356245690552677
+Code an app that:
+1. Offers the user a choice between subscription plans (eg. 3 music-streaming plans $29/month, $39/month, $59/month)
+2. Allows user to choose their billing date (eg. the 16th of each month)
+3. Presents the user with the prorated amount they owe now, and what & when their next bill be.
+Level: Mid-to-advanced beginners
+When done, comment with your app URL. 🚀
+----------------------------------------------
+----------------------------------------------
+----------------------------------------------
+----------------------------------------------
+----------------------------------------------
+----------------------------------------------
+
+
+

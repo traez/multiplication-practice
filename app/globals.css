@@ -1,27 +1,52 @@
+@import url("https://fonts.googleapis.com/css2?family=Barlow:wght@600&display=swap");
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
+/* 
+320, 480, 768, 992, 1200 (Trae Best Practice)
+640px, 768px, 1024px, 1280px, 1536px (Tailwind Default - sm, md, lg, xl, 2xl)
+*/
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  utline: 1px solid black;
+}
 :root {
-  --foreground-rgb: 0, 0, 0;
-  --background-start-rgb: 214, 219, 220;
-  --background-end-rgb: 255, 255, 255;
+  --traeGreen1: #93e4c1;
+  --traeGreen2: #3baea0;
+  --traeGreen3: #118a7e;
+  --traeGreen4: #1f6f78;
+  --traeGreen5: #d3f6d1;
+  --traeGreen6: #a7d7c5;
+  --traeGreen7: #74b49b;
+  --traeGreen8: #5c8d89;
+  --traeGreen9: #CFFF04;
+  --traeGreen10: #F0FFF0;
 }
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --foreground-rgb: 255, 255, 255;
-    --background-start-rgb: 0, 0, 0;
-    --background-end-rgb: 0, 0, 0;
-  }
-}
-
-body {
-  color: rgb(var(--foreground-rgb));
+header,
+footer {
   background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+    75deg,
+    #93e4c1 0%,
+    #93e4c1 12.5%,
+    #3baea0 12.5%,
+    #3baea0 25%,
+    #118a7e 25%,
+    #118a7e 37.5%,
+    #1f6f78 37.5%,
+    #1f6f78 50%,
+    #d3f6d1 50%,
+    #d3f6d1 62.5%,
+    #a7d7c5 62.5%,
+    #a7d7c5 75%,
+    #74b49b 75%,
+    #74b49b 87.5%,
+    #5c8d89 87.5%,
+    #5c8d89 100%
+  );
 }
+
+
